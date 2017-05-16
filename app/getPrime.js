@@ -1,7 +1,7 @@
 'use strict'
 
 module.exports.getPrimes = function(n){
-
+//
     let primes = [];
     if(isNaN(n)){
         return "Invalid number";
