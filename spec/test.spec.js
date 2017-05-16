@@ -52,4 +52,3 @@ describe("Prime Numbers Generator", function() {
       });
 
  });
-//expected to pass

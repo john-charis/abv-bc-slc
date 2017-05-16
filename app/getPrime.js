@@ -33,4 +33,4 @@ module.exports.getPrimes = function(n){
         }
     }
 }
-// code pass all test
+
