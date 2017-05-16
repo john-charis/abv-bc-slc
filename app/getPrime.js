@@ -35,3 +35,4 @@ module.exports.getPrimes = function(n){
 }
 
 //expected to pass
+//Refactor code
