@@ -1,0 +1,19 @@
+{
+  "name": "abv-bc-slc",
+  "version": "1.0.0",
+  "description": "home study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john-charis/abv-bc-slc.git"
+  },
+  "author": "John Charis Chukwuma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/john-charis/abv-bc-slc/issues"
+  },
+  "homepage": "https://github.com/john-charis/abv-bc-slc#readme"
+}
