@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/john-charis/abv-bc-slc/issues"
   },
-  "homepage": "https://github.com/john-charis/abv-bc-slc#readme"
+  "homepage": "https://github.com/john-charis/abv-bc-slc#readme",
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  }
 }
